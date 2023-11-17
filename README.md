@@ -7,7 +7,7 @@
 
 
 $$
-\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
+f(x) = |x|
 $$
 <!---
 VLXH/VLXH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
