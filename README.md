@@ -5,7 +5,8 @@
   - HTML
   - CSS
 
-ALL YOU NEED IS
+
+<div align="center"><em>All you need is</em></div>
 $$
 y = \frac(1)(x)
 $$
