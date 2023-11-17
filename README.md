@@ -27,13 +27,7 @@ $$
 x = -3|sin y|
 $$
 
-
-<svg width="400" height="400">
-  <rect x="20" y="20" width="250" height="250" style="fill:blue">
-    <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="5s" repeatCount="indefinite" />
-  </rect>
-  Sorry, your browser does not support inline SVG.  
-</svg>
+<strong>Escape The Matrix Here<href src="www.shopee.com"/></strong>
 <!---
 VLXH/VLXH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
