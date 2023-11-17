@@ -27,7 +27,7 @@ $$
 x = -3|sin y|
 $$
 
-<strong>Escape The Matrix Here<href src="www.shopee.com"/></strong>
+<a href="www.github.com/VLXH">Escape the matrix here</a>
 <!---
 VLXH/VLXH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
