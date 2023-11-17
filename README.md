@@ -9,7 +9,7 @@
 <div align="center"><em>All you need is</em></div>
 
 $$
-y = \frac(1)(x)
+y = \frac{1}{x}
 $$
 
 $$
