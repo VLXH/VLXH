@@ -5,9 +5,21 @@
   - HTML
   - CSS
 
+ALL YOU NEED IS
+$$
+y = \frac(1)(x)
+$$
 
 $$
-f(x) = |x|
+x^2 + y^2 = 9
+$$
+
+$$
+y = |-2x|
+$$
+
+$$
+x = -3|sin y|
 $$
 <!---
 VLXH/VLXH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
