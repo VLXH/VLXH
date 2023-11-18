@@ -4,6 +4,7 @@
 - 👋 Hi, I’m @VLXH
 <details>
   <summary>Languages that i use</summary>
+  <div></div>
   <p>Python</p>
   <p>JavaScript</p>
   <p>HTML</p>
