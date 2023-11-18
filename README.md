@@ -4,11 +4,11 @@
 - 👋 Hi, I’m @VLXH
 
 <details><summary><strong>Language that i use</strong></summary>
-- Python
-- Javascript
-- HTML
-- CSS
-- Java
+Python
+Javascript
+HTML
+CSS
+Java
 </details>
 
 <div align="center"><em>All you need is</em></div>
