@@ -2,21 +2,14 @@
 
 
 - 👋 Hi, I’m @VLXH
-<details>
-  <summary>Languages that i use</summary>
-  <div></div>
-  <p>Python</p>
-  <p>JavaScript</p>
-  <p>HTML</p>
-  <p>CSS</p>
-</details>
 
-<details>
-  <Framework>
-    <p>React?</p>
-  </Framework>
+<details><summary><strong>Language that i use</strong>strong></summary>
+- Python
+- Javascript
+- HTML
+- CSS
+- Java
 </details>
-
 
 <div align="center"><em>All you need is</em></div>
 
