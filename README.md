@@ -4,17 +4,14 @@
 - 👋 Hi, I’m @VLXH
 
 <details><summary><strong>Language that i use</strong></summary>
-Python
 </br>
+Python
 </br>
 JavaScript
 </br>
-</br>
 HTML
 </br>
-</br>
 CSS
-</br>
 </br>
 Java
 </details>
