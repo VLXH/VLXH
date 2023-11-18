@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @VLXH
 
-<details><summary><strong>Language that i use</strong>strong></summary>
+<details><summary><strong>Language that i use</strong></summary>
 - Python
 - Javascript
 - HTML
