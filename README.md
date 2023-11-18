@@ -5,15 +5,15 @@
 
 <details><summary><strong>Language that i use</strong></summary>
 </br>
-Python
+x
 </br>
-JavaScript
+d
 </br>
-HTML
+you
 </br>
-CSS
+clicked
 </br>
-Java
+it
 </details>
 
 <div align="center"><em>All you need is</em></div>
