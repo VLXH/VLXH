@@ -5,9 +5,13 @@
 
 <details><summary><strong>Language that i use</strong></summary>
 Python
+</br>
 Javascript
+</br>
 HTML
+</br>
 CSS
+</br>
 Java
 </details>
 
