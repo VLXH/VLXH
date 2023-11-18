@@ -6,11 +6,15 @@
 <details><summary><strong>Language that i use</strong></summary>
 Python
 </br>
-Javascript
+</br>
+JavaScript
+</br>
 </br>
 HTML
 </br>
+</br>
 CSS
+</br>
 </br>
 Java
 </details>
