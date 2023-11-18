@@ -2,11 +2,19 @@
 
 
 - 👋 Hi, I’m @VLXH
-- 🎸 Languages that I use
-  - JavaScript
-  - Python
-  - HTML
-  - CSS
+<details>
+  <summary>Languages that i use</summary>
+  <p>Python</p>
+  <p>JavaScript</p>
+  <p>HTML</p>
+  <p>CSS</p>
+</details>
+
+<details>
+  <Framework>
+    <p>React?</p>
+  </Framework>
+</details>
 
 
 <div align="center"><em>All you need is</em></div>
