@@ -16,23 +16,14 @@ clicked
 it
 </details>
 
-<div align="center"><em>All you need is</em></div>
-
-$$
-y = \frac{1}{x}
-$$
-
-$$
-x^2 + y^2 = 9
-$$
-
-$$
-y = |-2x|
-$$
-
-$$
-x = -3|sin y|
-$$
+<div align = "center">
+<h1>Hello</h1>
+<h2>Hello</h2>
+<h3>Hello</h3>
+<h4>Hello</h4>
+<h5>Hello</h5>
+<h6>Hello</h6>
+</div>
 
 <table>
   <tr>
@@ -79,12 +70,22 @@ You can click the Preview link to take a look at your changes.
 `"2" + "2" - "2" = 20` in JavaScript
 
 
-<div align = "center">
-<h1>Hello</h1>
-<h2>Hello</h2>
-<h3>Hello</h3>
-<h4>Hello</h4>
-<h5>Hello</h5>
-<h6>Hello</h6>
-</div>
 
+
+<div align="center"><em>All you need is</em></div>
+
+$$
+y = \frac{1}{x}
+$$
+
+$$
+x^2 + y^2 = 9
+$$
+
+$$
+y = |-2x|
+$$
+
+$$
+x = -3|sin y|
+$$
