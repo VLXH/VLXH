@@ -1,8 +1,5 @@
 <h1><strong>"VLXH"</strong></h1>
 
-
-- 👋 Hi, I’m @VLXH
-
 <details><summary><strong>Language that i use</strong></summary>
 </br>
 x
