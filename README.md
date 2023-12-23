@@ -1,10 +1,8 @@
-<h1><strong>"VLXH"</strong></h1>
+<h1><strong>VLXH</strong></h1>
 
 <details><summary><strong>Language that i use</strong></summary>
 </br>
-x
-</br>
-d
+xd
 </br>
 you
 </br>
