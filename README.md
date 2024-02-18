@@ -1,6 +1,6 @@
 <h1><strong>VLXH</strong></h1>
 
-<details><summary><strong>Language that i use</strong></summary>
+<details><summary><strong>lets click</strong></summary>
 </br>
 xd
 </br>
